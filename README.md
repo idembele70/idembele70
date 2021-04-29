@@ -36,4 +36,4 @@
 
 
 ### Stats Github
-<p align="center"> ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=idembele70&theme=dark&show_icons=true)</p>
+<img align="center" src="![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=idembele70&theme=dark&show_icons=true)"/>
