@@ -7,10 +7,10 @@
 - Actuellement j'apprends Angular, Nodejs, PHP, JAVA, C#.
 
 ### 📬  Rentrons en contact !
- 📩 ibrahimk.dembele@outlook.fr
 <a href="https://www.linkedin.com/in/ibrahim-dembele-2a91351b3/">
   <img align="left" alt="Ibrahim's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+ 📩 ibrahimk.dembele@outlook.fr
 
 ### Outils et Langages :
 
