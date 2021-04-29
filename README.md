@@ -40,7 +40,10 @@
 </p>
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML         29 mins         █████████████████▒░░░░░░░   69.77 % 
+JavaScript   6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Markdown     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+INI          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 <!--END_SECTION:waka-->
 <br/>
