@@ -36,4 +36,4 @@
 
 
 ### Stats Github
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=idembele70&theme=dark&show_icons=true"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=idembele70&theme=dark&show_icons=true"/></p>
