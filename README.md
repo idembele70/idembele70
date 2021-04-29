@@ -5,11 +5,12 @@
 - Cherche un contrat d'alternance à partir de Novembre 2021
 - Maitrise HTML/CSS/Javascript
 - Actuellement j'apprends Angular, Nodejs, PHP, JAVA, C#.
+- Fan de Manchester City 🔵⚪️
 ### 📬  Rentrons en contact !
 
 
 ### Outils et Langages :
 
 
-### state Github
+### Stats Github
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=idembele70&theme=dark&show_icons=true)
