@@ -31,5 +31,5 @@
 <br/>
 
 
-### Stats Github
+<h3 width="100%"> Stats Github </h3>
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=idembele70&theme=dark&show_icons=true)
