@@ -5,5 +5,5 @@
 - Cherche un contrat d'alternance à partir de Novembre 2021
 - Je Maitrise HTML/CSS/Javascript
 - Actuellement j'apprends Angular, Nodejs, PHP, JAVA, C#.
-### 📫 Rentrons en contact !
+### 📬  Rentrons en contact !
 
