@@ -54,3 +54,7 @@ INI          1 min           █░░░░░░░░░░░░░░░░
 
 
 ![pv](https://pageview.vercel.app/?github_user=idembele70)
+
+<br/>
+
+<img alt="codewars statistique" src="https://www.codewars.com/users/idembele70/badges/large"/>
