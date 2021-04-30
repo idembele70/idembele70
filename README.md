@@ -38,6 +38,9 @@
 ### Stats Github
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=idembele70&theme=dark&show_icons=true"/>
 </p>
+
+<br/>
+
 <!--START_SECTION:waka-->
 ```text
 YAML         29 mins         █████████████████▒░░░░░░░   69.77 % 
@@ -46,6 +49,8 @@ Markdown     3 mins          ██░░░░░░░░░░░░░░░
 INI          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 <!--END_SECTION:waka-->
+
 <br/>
+
 
 ![pv](https://pageview.vercel.app/?github_user=idembele70)
