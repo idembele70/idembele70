@@ -41,7 +41,7 @@
 
 <br/>
 
-📊 **Cette Semaine passé mon temps sur:**
+📊 **Cette Semaine j'ai passé mon temps sur:**
 <!--START_SECTION:waka-->
 ```text
 Week: 22 April, 2021 - 29 April, 2021
