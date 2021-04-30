@@ -57,4 +57,4 @@ INI          1 min           █░░░░░░░░░░░░░░░░
 
 <br/>
 
-<img alt="codewars statistique" src="https://www.codewars.com/users/idembele70/badges/large"/>
+<p align="center"> <img alt="codewars statistique" src="https://www.codewars.com/users/idembele70/badges/small"/></p>
