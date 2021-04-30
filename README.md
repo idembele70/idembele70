@@ -41,6 +41,7 @@
 
 <br/>
 
+📊 **Cette Semaine passé mon temps sur:**
 <!--START_SECTION:waka-->
 ```text
 YAML         29 mins         █████████████████▒░░░░░░░   69.77 % 
