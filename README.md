@@ -4,7 +4,7 @@
 - En stage de Juillet à Août 2021
 - Cherche un contrat d'alternance à partir de Novembre 2021
 - Maitrise HTML/CSS/Javascript
-- Actuellement j'apprends Angular, Nodejs, PHP, JAVA, C#.
+- Actuellement j'apprends principalement React et Nodejs, je passe un peu de temps sur Angular, PHP, JAVA, C#.
 
 ### 📬  Rentrons en contact !
 <a href="https://www.linkedin.com/in/ibrahim-dembele-2a91351b3/">
