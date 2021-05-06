@@ -1,7 +1,7 @@
 <img src="https://github.com/idembele70/dembele/blob/main/header.png" alt="ibrahim dembele GitHub README header image">
 
 ### 👲🏿 A propos 
-- Cherche stage de 2 mois minimun ASAP
+- En stage de Juillet à Août 2021
 - Cherche un contrat d'alternance à partir de Novembre 2021
 - Maitrise HTML/CSS/Javascript
 - Actuellement j'apprends Angular, Nodejs, PHP, JAVA, C#.
