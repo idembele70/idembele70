@@ -44,7 +44,7 @@
 📊 **Cette Semaine j'ai passé mon temps sur:**
 <!--START_SECTION:waka-->
 ```text
-Week: 25 August, 2021 - 31 August, 2021
+Week: 26 August, 2021 - 01 September, 2021
 
 JSX          13 hrs 49 mins  ███████████████▓░░░░░░░░░   62.23 % 
 JavaScript   4 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.18 % 
