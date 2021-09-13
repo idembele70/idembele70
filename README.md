@@ -46,11 +46,11 @@
 ```text
 Week: 06 September, 2021 - 12 September, 2021
 
-JavaScript         9 hrs 4 mins    ███████████▓░░░░░░░░░░░░░   46.87 % 
-JSX                7 hrs 50 mins   ██████████░░░░░░░░░░░░░░░   40.51 % 
-JSON               1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Other              29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-reStructuredText   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+JSX                9 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   47.21 % 
+JavaScript         7 hrs 36 mins   ██████████░░░░░░░░░░░░░░░   39.50 % 
+JSON               1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+reStructuredText   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Other              29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 <!--END_SECTION:waka-->
 
