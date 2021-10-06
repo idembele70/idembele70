@@ -46,8 +46,8 @@
 ```text
 Week: 29 September, 2021 - 05 October, 2021
 
-JavaScript   3 hrs 43 mins   █████████████████▓░░░░░░░   70.56 % 
-JSX          1 hr 33 mins    ███████▒░░░░░░░░░░░░░░░░░   29.44 % 
+JavaScript   5 hrs 31 mins   ██████████████████░░░░░░░   72.18 % 
+JSX          2 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   27.82 % 
 ```
 <!--END_SECTION:waka-->
 
