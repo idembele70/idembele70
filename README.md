@@ -44,7 +44,7 @@
 📊 **Cette Semaine j'ai passé mon temps sur:**
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2021 - 25 October, 2021
+Week: 20 October, 2021 - 26 October, 2021
 
 JavaScript   9 hrs 1 min     ███████████████████████░░   92.28 % 
 JSX          37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
