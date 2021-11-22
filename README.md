@@ -1,10 +1,10 @@
 <img src="https://github.com/idembele70/dembele/blob/main/header.png" alt="ibrahim dembele GitHub README header image">
 
 ### 👲🏿 A propos 
-- J'ai effectuer un Stage avec React & NodeJS Juillet à Août 2021
-- Cherche un contrat d'alternance à ASAP.
-- Maitrise HTML/CSS/Javascript/React/Nodejs
-- Actuellement j'apprends principalement TypeScript
+- J'ai effectuer un Stage avec React & Node JS de Juillet à Août 2021.
+- Cherche un contrat d'alternance ASAP.
+- Maitrise HTML, CSS, Javascript, React, Nodejs.
+- Actuellement j'apprends principalement TypeScript.
 
 ### 📬  Rentrons en contact !
 <a href="https://www.linkedin.com/in/ibrahim-dembele-2a91351b3/">
