@@ -38,7 +38,7 @@
 📊 **Cette Semaine j'ai passé mon temps sur:**
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2021 - 01 January, 2022
+Week: 27 December, 2021 - 02 January, 2022
 
 JavaScript         8 hrs 28 mins   ███████████████░░░░░░░░░░   59.91 % 
 JSX                4 hrs 49 mins   ████████▓░░░░░░░░░░░░░░░░   34.12 % 
