@@ -38,7 +38,7 @@
 📊 **Cette Semaine j'ai passé mon temps sur:**
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2022 - 08 January, 2022
+Week: 03 January, 2022 - 09 January, 2022
 
 JavaScript         14 hrs 1 min    ███████████████████████▓░   94.65 % 
 reStructuredText   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
