@@ -40,8 +40,6 @@
 ```text
 Week: 12 February, 2022 - 18 February, 2022
 
-Total: 17 hrs 33 mins
-
 JavaScript   16 hrs 8 mins   ███████████████████████░░   91.94 % 
 CSS          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 JSON         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
