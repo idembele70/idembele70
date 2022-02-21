@@ -38,7 +38,7 @@
 📊 **Cette Semaine j'ai passé mon temps sur:**
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2022 - 20 February, 2022
+From: 13 February, 2022 - To: 20 February, 2022
 
 JavaScript   13 hrs 4 mins   ██████████████████████▒░░   89.68 % 
 JSON         1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
