@@ -4,7 +4,7 @@
 - J'ai effectuer un Stage avec React & Node JS de Juillet à Août 2021.
 - Cherche un contrat d'alternance ASAP.
 - Maitrise HTML, CSS, Javascript, React, Nodejs.
-- Actuellement j'apprends principalement TypeScript.
+- Actuellement j'apprends principalement TypeScript et Rxjs.
 
 ### 📬  Rentrons en contact !
 <a href="https://www.linkedin.com/in/ibrahim-dembele-2a91351b3/">
