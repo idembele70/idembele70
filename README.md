@@ -39,11 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 July 2022 - To: 08 July 2022
+From: 02 July 2022 - To: 09 July 2022
 
-TypeScript   6 hrs 57 mins   ███████████████████▓░░░░░   79.19 %
-JavaScript   1 hr 33 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
-Text         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+TypeScript   5 hrs 35 mins   ███████████████████▒░░░░░   77.65 %
+JavaScript   1 hr 25 mins    █████░░░░░░░░░░░░░░░░░░░░   19.70 %
+Text         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
