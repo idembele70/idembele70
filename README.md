@@ -39,11 +39,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 July 2022 - To: 01 August 2022
+From: 26 July 2022 - To: 02 August 2022
 
-Markdown     2 hrs 8 mins    █████████████████▓░░░░░░░   70.44 %
-TypeScript   40 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.28 %
-JavaScript   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+TypeScript   1 hr 20 mins    ██████████████░░░░░░░░░░░   56.06 %
+Markdown     1 hr 3 mins     ███████████░░░░░░░░░░░░░░   43.94 %
 ```
 
 <!--END_SECTION:waka-->
