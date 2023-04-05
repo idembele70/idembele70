@@ -13,7 +13,7 @@
 </a>
  📩 : ibrahimk.dembele@outlook.fr
 
-### Outils et Langages :
+### Tools & Spoken Languages :
 
  <img align="left" style="margin-right:8px;" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
  <img align="left" style="margin-right:8px;" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
