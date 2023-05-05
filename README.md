@@ -49,7 +49,6 @@ HTML               1 hr 36 mins    ███▒░░░░░░░░░░░
 reStructuredText   1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
 JavaScript         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 Markdown           19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-SCSS               14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
