@@ -42,10 +42,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2023 - To: 20 June 2023
+From: 14 June 2023 - To: 21 June 2023
 
-TypeScript   16 mins         ███████████████████████░░   92.66 %
-JSON         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
