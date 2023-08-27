@@ -42,11 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2023 - To: 26 August 2023
+From: 20 August 2023 - To: 27 August 2023
 
-JavaScript   24 mins         ██████████████████████▒░░   89.63 %
-Markdown     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+JSON         25 mins         ████████████▒░░░░░░░░░░░░   49.80 %
+JavaScript   24 mins         ███████████▓░░░░░░░░░░░░░   46.88 %
+Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 ```
 
 <!--END_SECTION:waka-->
