@@ -42,9 +42,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2023 - To: 23 November 2023
+From: 17 November 2023 - To: 24 November 2023
 
-No activity tracked
+JSON         42 mins         ███████████▒░░░░░░░░░░░░░   45.58 %
+JavaScript   26 mins         ███████░░░░░░░░░░░░░░░░░░   28.32 %
+Bash         24 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
