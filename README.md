@@ -42,7 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2023 - To: 20 December 2023
+From: 14 December 2023 - To: 21 December 2023
 
 SCSS         2 hrs 43 mins   ██████████▓░░░░░░░░░░░░░░   43.10 %
 HTML         2 hrs 2 mins    ████████░░░░░░░░░░░░░░░░░   32.21 %
