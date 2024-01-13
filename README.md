@@ -42,13 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2023 - To: 04 January 2024
+From: 04 January 2024 - To: 11 January 2024
 
-SCSS         1 hr 43 mins    ██████████▓░░░░░░░░░░░░░░   42.89 %
-HTML         1 hr 7 mins     ███████░░░░░░░░░░░░░░░░░░   28.21 %
-Docker       33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
-JSON         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-TypeScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+YAML         8 hrs 51 mins   █████████████░░░░░░░░░░░░   51.60 %
+TypeScript   2 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+Markdown     1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+Bash         1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+HTML         1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
 ```
 
 <!--END_SECTION:waka-->
