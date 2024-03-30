@@ -42,10 +42,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 March 2024 - To: 21 March 2024
+From: 21 March 2024 - To: 28 March 2024
 
-Bash         37 mins         ████████████████████████▒   97.86 %
-Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
