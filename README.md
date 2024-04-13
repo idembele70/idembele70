@@ -42,9 +42,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2024 - To: 05 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
-Bash   1 hr 56 mins    █████████████████████████   100.00 %
+Bash   26 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
