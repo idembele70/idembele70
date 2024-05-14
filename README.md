@@ -9,7 +9,7 @@
 ### 📬 contact me !
 
 <a href="https://www.linkedin.com/in/ibrahim-dembele-2a91351b3/">
-  <img style="margin-right:8px;" align="left" alt="Ibrahim's LinkedIN" width="30px" src="https://raw.githubusercontent.com/idembele70/idembele70/master/assets/linkedin.svg" />
+  <img style="margin-right:8px;" align="left" alt="Ibrahim's LinkedIN" width="30px" src="https://raw.githubusercontent.com/idembele70/idembele70/master/linkedin.svg" />
 </a>
  📩 : ibrahimk.dembele@outlook.fr
 
