@@ -23,10 +23,17 @@
  <img align="left" style="margin-right:8px;" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
  <img align="left" style="margin-right:8px;" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
  <img align="left" style="margin-right:8px;" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-<img align="left" style="margin-right:8px;" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" style="margin-right:8px;" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png"/>
-<img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/chatgpt-api/chatgpt-api.png" />
-<img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/styled-components/styled-components.png" />
+ <img align="left" style="margin-right:8px;" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+ <img align="left" style="margin-right:8px;" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png"/>
+ <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/chatgpt-api/chatgpt-api.png" />
+ <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/styled-components/styled-components.png" />
+ <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" />
+ <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
+ <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/playwright/playwright.png" />
+ <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" />
+ <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/slack/slack.png" />
+ <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/gitlab/gitlab.png" />
+ <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />
 <br/>
 <br/>
 
