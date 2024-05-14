@@ -3,13 +3,13 @@
 ### 👲🏿 About
 
 - I had an internship between July and August 2021 using React and Node.js.
-- Looking for an apprenticeship contract ASAP
-- I'm currently learning advanced CSS animations and I would like to learn how to use Node.js in TypeScript afterwards.
+- Actually making an apprenticeship contract at the SII Sud-Ouest since July 2023, it will end in September 2025.
+- I'm currently learning Angular, Playwright E2E testing and I would like to learn how to use Node.js in TypeScript after that.
 
 ### 📬 contact me !
 
 <a href="https://www.linkedin.com/in/ibrahim-dembele-2a91351b3/">
-  <img style="margin-right:8px;" align="left" alt="Ibrahim's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img style="margin-right:8px;" align="left" alt="Ibrahim's LinkedIN" width="30px" src="https://raw.githubusercontent.com/idembele70/idembele70/master/assets/linkedin.svg" />
 </a>
  📩 : ibrahimk.dembele@outlook.fr
 
