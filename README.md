@@ -49,11 +49,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2024 - To: 21 June 2024
+From: 21 June 2024 - To: 28 June 2024
 
-Gettext Catalog   1 hr 8 mins     ██████████████████░░░░░░░   71.75 %
-PHP               26 mins         ███████░░░░░░░░░░░░░░░░░░   27.71 %
-JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Gettext Catalog   5 mins          █████████████░░░░░░░░░░░░   52.19 %
+PHP               5 mins          ████████████░░░░░░░░░░░░░   47.81 %
 ```
 
 <!--END_SECTION:waka-->
