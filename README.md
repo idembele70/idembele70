@@ -49,13 +49,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2024 - To: 12 July 2024
+From: 12 July 2024 - To: 19 July 2024
 
-TypeScript         12 hrs 23 mins  ██████████████████████▓░░   90.53 %
-YAML               28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-JSON               25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Other              17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-reStructuredText   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
