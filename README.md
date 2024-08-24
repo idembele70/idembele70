@@ -49,13 +49,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2024 - To: 16 August 2024
+From: 16 August 2024 - To: 23 August 2024
 
-JSON         2 hrs 7 mins    ██████████████░░░░░░░░░░░   55.73 %
-TypeScript   1 hr 13 mins    ████████░░░░░░░░░░░░░░░░░   32.11 %
-YAML         22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
