@@ -49,13 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2024 - To: 30 August 2024
+From: 30 August 2024 - To: 06 September 2024
 
-Bash              1 hr 55 mins    █████████▓░░░░░░░░░░░░░░░   38.30 %
-JavaScript        1 hr 51 mins    █████████▒░░░░░░░░░░░░░░░   36.98 %
-Other             49 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
-Gettext Catalog   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-SQL               10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+YAML         1 hr 33 mins    ████████░░░░░░░░░░░░░░░░░   32.58 %
+TypeScript   1 hr 7 mins     ██████░░░░░░░░░░░░░░░░░░░   23.67 %
+Bash         37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+JSON         31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+SQL          30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
 ```
 
 <!--END_SECTION:waka-->
