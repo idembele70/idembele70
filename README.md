@@ -49,10 +49,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2024 - To: 13 September 2024
+From: 13 September 2024 - To: 20 September 2024
 
-Markdown   13 mins         ████████████████████████░   95.40 %
-Other      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
