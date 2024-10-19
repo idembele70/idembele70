@@ -49,13 +49,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2024 - To: 11 October 2024
+From: 11 October 2024 - To: 18 October 2024
 
-TypeScript         3 hrs 36 mins   ████████████████░░░░░░░░░   64.64 %
-reStructuredText   1 hr 10 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.04 %
-JSON               21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-Bash               18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-Markdown           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
