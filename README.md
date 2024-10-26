@@ -49,9 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2024 - To: 18 October 2024
+From: 18 October 2024 - To: 25 October 2024
 
-No activity tracked
+TypeScript   1 hr 2 mins     █████████████████▓░░░░░░░   70.55 %
+JSON         14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+Markdown     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Bash         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
