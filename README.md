@@ -49,13 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2024 - To: 26 December 2024
+From: 26 December 2024 - To: 02 January 2025
 
-TypeScript         2 hrs 51 mins   ███████████▓░░░░░░░░░░░░░   46.24 %
-reStructuredText   2 hrs 18 mins   █████████▒░░░░░░░░░░░░░░░   37.33 %
-Docker             25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Bash               15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-Other              12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+TypeScript         3 hrs 52 mins   ███████████████████░░░░░░   76.44 %
+EJS                22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+reStructuredText   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+TSConfig           11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Git Config         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 ```
 
 <!--END_SECTION:waka-->
