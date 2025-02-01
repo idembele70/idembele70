@@ -49,11 +49,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2025 - To: 23 January 2025
+From: 22 January 2025 - To: 29 January 2025
 
-Text    14 mins         ██████████████████▓░░░░░░   74.24 %
-CSV     4 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
-Other   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Text   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
