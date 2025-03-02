@@ -4,7 +4,7 @@
 
 - I had an internship between July and August 2021 using React and Node.js.
 - Actually making an apprenticeship contract at the SII Sud-Ouest since July 2023, it will end in September 2025.
-- I'm currently learning Angular, Playwright E2E testing and I would like to learn how to use Node.js in TypeScript after that.
+- I'm currently learning Docker, Playwright E2E testing and I would like to learn how to use Node.js in TypeScript and Angular after that.
 
 ### 📬 contact me !
 
