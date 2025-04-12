@@ -49,9 +49,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2025 - To: 04 April 2025
+From: 04 April 2025 - To: 11 April 2025
 
-No activity tracked
+Python       4 hrs 51 mins   ███████████████████████▓░   94.99 %
+HTML         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
