@@ -49,12 +49,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2025 - To: 11 April 2025
+From: 10 April 2025 - To: 17 April 2025
 
-Python       4 hrs 51 mins   ███████████████████████▓░   94.99 %
-HTML         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python   2 hrs 37 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
