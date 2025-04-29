@@ -1,10 +1,9 @@
 <img src="https://github.com/idembele70/dembele/blob/main/header.png" alt="ibrahim dembele GitHub README header image">
 
 ### 👲🏿 About
-
-- I had an internship between July and August 2021 using React and Node.js.
-- Actually making an apprenticeship contract at the SII Sud-Ouest since July 2023, it will end in September 2025.
-- I'm currently learning Docker, Playwright E2E testing and I would like to learn how to use Node.js in TypeScript and Angular after that.
+- I completed an internship from July to August 2021, where I worked with React and Node.js.  
+- I am currently on an apprenticeship contract at **SII Sud-Ouest**, which started in July 2023 and will end on September 26, 2025.  
+- I am actively learning **Advanced React**, **Angular**, and **Node.js** with **TypeScript**, along with advanced **Playwright E2E testing**. After completing these, I plan to learn **Advanced Docker**.
 
 ### 📬 contact me !
 
