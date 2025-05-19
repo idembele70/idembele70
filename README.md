@@ -1,4 +1,4 @@
-<img src="https://github.com/idembele70/dembele/blob/main/header.png" alt="ibrahim dembele GitHub README header image">
+<img src="./header.png" alt="ibrahim dembele GitHub README header image">
 
 ### 👲🏿 About
 - I completed an internship from July to August 2021, where I worked with React and Node.js.  
