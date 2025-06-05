@@ -25,14 +25,23 @@
  <img align="left" style="margin-right:8px;" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
  <img align="left" style="margin-right:8px;" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png"/>
  <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/chatgpt-api/chatgpt-api.png" />
- <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/styled-components/styled-components.png" />
- <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" />
- <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
- <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/playwright/playwright.png" />
- <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" />
- <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/slack/slack.png" />
- <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/gitlab/gitlab.png" />
- <img align="left" style="margin-right:8px;" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />
+ <img align="left" style="margin-right:8px;" alt="Style-components" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/styled-components/styled-components.png" />
+ <img align="left" style="margin-right:8px;" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" />
+ <img align="left" style="margin-right:8px;" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
+ <img align="left" style="margin-right:8px;" alt="Playwright" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/playwright/playwright.png" />
+ <img align="left" style="margin-right:8px;" alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" />
+ <img align="left" style="margin-right:8px;" alt="Slack" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/slack/slack.png" />
+ <img align="left" style="margin-right:8px;" alt="Gitlab" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/gitlab/gitlab.png" />
+ <img align="left" style="margin-right:8px;" alt="Figma" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />
+ <img align="left" style="margin-right:8px;" alt="Aws" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
+ <img align="left" style="margin-right:8px;" alt="Eslint" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/eslint/eslint.png" />
+ <img align="left" style="margin-right:8px;" alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" />
+ <img align="left" style="margin-right:8px;" alt="Markdown" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/markdown/markdown.png" />
+ <img align="left" style="margin-right:8px;" alt="Mongodb" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
+ <img align="left" style="margin-right:8px;" alt="Mongoose" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongoose/mongoose.png" />
+ <img align="left" style="margin-right:8px;" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
+ <img align="left" style="margin-right:8px;" alt="Npm" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" />
+ <img align="left" style="margin-right:8px;" alt="Sql" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
 <br/>
 <br/>
 
