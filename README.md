@@ -57,13 +57,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2025 - To: 29 May 2025
+From: 29 May 2025 - To: 05 June 2025
 
-TypeScript                 29 hrs 18 mins  ██████████████████▓░░░░░░   74.99 %
-Markdown                   5 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
-HTML                       1 hr 56 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-Nginx configuration file   1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-JSON                       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+TypeScript   20 hrs 22 mins  ███████████████████░░░░░░   76.52 %
+Markdown     3 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+HTML         1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+JSON         1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+TSConfig     45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 
 <!--END_SECTION:waka-->
