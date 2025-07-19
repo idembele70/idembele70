@@ -57,13 +57,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2025 - To: 11 July 2025
+From: 11 July 2025 - To: 18 July 2025
 
-TypeScript   8 hrs 49 mins   ██████████████░░░░░░░░░░░   55.50 %
-JavaScript   4 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.64 %
-CSS          2 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
-Git          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-TSConfig     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+TypeScript   6 hrs 45 mins   ███████████▓░░░░░░░░░░░░░   47.31 %
+CSS          3 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
+JavaScript   2 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
+Other        1 hr 36 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
