@@ -57,13 +57,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2025 - To: 29 August 2025
+From: 28 August 2025 - To: 04 September 2025
 
-HTML         27 mins         █████████████░░░░░░░░░░░░   51.57 %
-Git Config   13 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
-INI          6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-TypeScript   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
