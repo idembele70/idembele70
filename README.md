@@ -57,9 +57,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2025 - To: 19 September 2025
+From: 19 September 2025 - To: 26 September 2025
 
-No activity tracked
+HTML         8 hrs 49 mins   ████████████▓░░░░░░░░░░░░   50.80 %
+SCSS         3 hrs 56 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
+TypeScript   3 hrs 56 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
