@@ -2,15 +2,19 @@
 
 ### 👲🏿 About
 - I completed an internship from July to August 2021, where I worked with React and Node.js.  
-- I am currently on an apprenticeship contract at **SII Sud-Ouest**, which started in July 2023 and will end on September 26, 2025.  
-- I am actively learning **Advanced React**, **Angular**, and **Node.js** with **TypeScript**, along with advanced **Playwright E2E testing**. After completing these, I plan to learn **Advanced Docker**.
+- Finished a 2-year apprenticeship at **SII Sud-Ouest** (July 2023 — September 26, 2025).  
+- Currently deepening my expertise in **Advanced Angular**, **React** and **Node.js** with **TypeScript**, with a focus on **Playwright E2E testing**.
+- Next on my roadmap: mastering **Advanced Docker**.
+
+### 🏅 Certifications
+- **October 12, 2025** — Certified [**Junior Angular**](https://certificates.dev/angular/certificates/a0192c6f-6850-4bf5-958f-0fe137447118) Developer From [Certificates.dev](https://certificates.dev/)
 
 ### 📬 contact me !
 
 <a href="https://www.linkedin.com/in/ibrahim-dembele-2a91351b3/">
   <img style="margin-right:8px;" align="left" alt="Ibrahim's LinkedIN" width="30px" src="https://raw.githubusercontent.com/idembele70/idembele70/master/linkedin.svg" />
 </a>
- 📩 : ibrahimk.dembele@outlook.fr
+ 📩 : <a href="mailto:ibrahimk.dembele@outlook.fr" target="_blank">ibrahimk.dembele@outlook.fr</a>
 
 ### Tools & Spoken Languages :
 
@@ -70,7 +74,7 @@ JSON               1 hr 38 mins    █░░░░░░░░░░░░░░
 
 <br/>
 
-![pv](https://pageview.vercel.app/?github_user=idembele70)
+<!--![pv](https://pageview.vercel.app/?github_user=idembele70)-->
 
 <br/>
 
