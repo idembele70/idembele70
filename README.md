@@ -8,6 +8,7 @@
 
 ### 🏅 Certifications
 - **October 12, 2025** — Certified [**Junior Angular**](https://certificates.dev/angular/certificates/a0192c6f-6850-4bf5-958f-0fe137447118) Developer From [Certificates.dev](https://certificates.dev/)
+- **November 3rd, 2025** — Certified [**Mid-Level Angular**](https://certificates.dev/angular/certificates/a0443872-372e-4bee-9d71-034418b3d78b) Developer From [Certificates.dev](https://certificates.dev/)
 
 ### 📬 contact me !
 
