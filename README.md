@@ -3,8 +3,8 @@
 ### 👲🏿 About
 - I completed an internship from July to August 2021, where I worked with React and Node.js.  
 - Finished a 2-year apprenticeship at **SII Sud-Ouest** (July 2023 — September 26, 2025).  
-- Currently deepening my expertise in **Advanced Angular**, **React** and **Node.js** with **TypeScript**, with a focus on **Playwright E2E testing**.
-- Next on my roadmap: mastering **Advanced Docker**.
+- Currently deepening my expertise in **Advanced Angular** and **Node.js** with **TypeScript**, with a focus on **Playwright E2E testing**.
+- Next on my roadmap: mastering **Advanced Docker**, **React**, .
 
 ### 🏅 Certifications
 - **October 12, 2025** — Certified [**Junior Angular**](https://certificates.dev/angular/certificates/a0192c6f-6850-4bf5-958f-0fe137447118) Developer From [Certificates.dev](https://certificates.dev/)
