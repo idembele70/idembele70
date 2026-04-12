@@ -1,7 +1,7 @@
 <img src="./header.png" alt="ibrahim dembele GitHub README header image">
 
 ### 👲🏿 About
-- I Work at Sogeti as Front-end Developer And QA Automation.
+- I Work at Sogeti as Front-end Developer And QA Automation Engineer.
 - Finished a 2-year apprenticeship at **SII Sud-Ouest** (July 2023 — September 26, 2025).
 - I completed an internship from July to August 2021, where I worked with React and Node.js.  
 - Currently deepening my expertise in **Advanced Angular** and **Robot Framework**, with a focus on **Python**.
