@@ -49,6 +49,9 @@
  <img align="left" style="margin-right:8px;" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
  <img align="left" style="margin-right:8px;" alt="Npm" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" />
  <img align="left" style="margin-right:8px;" alt="Sql" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+ <img align="left" style="margin-right:8px;" alt="Sql" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+ <img align="left" style="margin-right:8px;" alt="Sql" width="30px" src="https://github.com/github/explore/blob/main/topics/robotframework/robotframework.png" />
+  
 <br/>
 <br/>
 
